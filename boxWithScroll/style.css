@@ -1,0 +1,25 @@
+* {
+     margin: 0;
+     padding: 0;
+ }
+ 
+ html,body {
+     height: 100%;
+ }
+ 
+ body {
+     font-size: 30px;
+     
+ }
+ 
+ .box {
+     width: 500px;
+     height: 500px;
+     background-color: yellow;
+     overflow: auto;
+     font-family: "Sofia", sans-serif;
+ }
+ 
+ .box *{ -> Aqui!Aqui!Aqui!Aqui!Aqui!Aqui!Aqui!Aqui!Aqui!Aqui!Aqui!Aqui!
+     font-family: "Sofia", sans-serif;
+ }
